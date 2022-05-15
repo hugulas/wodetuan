@@ -1,0 +1,3 @@
+TITLE= "物资清单"
+AUTHORIZATION = ''
+QUNTUANZHANG = []
